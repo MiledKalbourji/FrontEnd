@@ -21,11 +21,8 @@ To run the application, follow these steps:
 4. Run the following command to execute the application:
 
     ```
-    python Teacher_Tkinter.py
+    python Teacher Front-End.py
     ```
-
-   Replace `Teacher_Tkinter.py` with the name of the Python script containing the application code.
-
 5. The application's login window will appear. You can log in with existing credentials or create a new account.
 
 ## Note
